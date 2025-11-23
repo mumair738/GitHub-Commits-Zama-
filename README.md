@@ -28,7 +28,7 @@ This guide helps you complete **15 GitHub commits on 10 June** easily using **Gi
 
 ---
 
-### 4️⃣ Run the Following Commands
+### 4️⃣ Run the Follow Commands
 
 Paste the following one-by-one or all together in the terminal:
 
